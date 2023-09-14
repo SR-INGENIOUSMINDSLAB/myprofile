@@ -27,7 +27,7 @@ To run the MyProfile app locally, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/myprofile-flutter.git
+   git clone https://github.com/SR-INGENIOUSMINDSLAB/myprofile-flutter.git
 2. Navigate to the project directory:
 
    cd myprofile-flutter
