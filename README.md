@@ -12,8 +12,6 @@ Table of Contents
 * [Key Features](#key-features)
 * [Dependencies](#dependencies)
 * [Flutter and Dart Versions](#flutter-and-dart-versions)
-* [Contributing](#contributing)
-* [License](#license)
 
 Introduction
 ------------
